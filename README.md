@@ -26,10 +26,7 @@ Click on Jumpstart, Models, notebooks, solutions:
 
 <img width="772" alt="Screenshot 2023-11-10 at 10 37 35" src="https://github.com/redjules/Deploy-Stable-Diffusion-On-AWS-SageMaker/assets/106017493/321a8ac4-3564-4040-b0bc-5977f92dab1a">
 
-Choose the Stable Diffusion 2.1:
-<img width="540" alt="Screenshot 2023-11-10 at 10 38 26" src="https://github.com/redjules/Deploy-Stable-Diffusion-On-AWS-SageMaker/assets/106017493/77b9e95a-295f-4f92-a810-8f656f7a1da7">
-
-And Deploy:
+Choose the Stable Diffusion 2.1  and Deploy:
 
 <img width="867" alt="Screenshot 2023-11-10 at 10 39 07" src="https://github.com/redjules/Deploy-Stable-Diffusion-On-AWS-SageMaker/assets/106017493/a3f57ac7-5bd8-4f21-b441-87cf3c36b5b0">
 
